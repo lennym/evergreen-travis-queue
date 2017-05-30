@@ -25,7 +25,7 @@
     "github": "^6.0.4"
   },
   "devDependencies": {
-    "lambda-bundler": "^1.0.1"
+    "lambda-bundler": "^1.0.2"
   },
   "lambda-bundler": {
     "files": [
